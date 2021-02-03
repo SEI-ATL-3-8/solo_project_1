@@ -58,9 +58,9 @@ This total score will serve as a helpful overall gauge of whether you met the pr
 
 Your `readme.md` will be the resource document for your project. It needs to give a **clear overview** of the project from start to finish. 
 
-Before beginning your project, the `readme.md` should describe your vision of the project and your plans on how to achieve your vision. 
+Before beginning your project, the `readme.md` should describe your vision of the project and your plans on how to achieve your goals. 
 
-After your project is complete, your `readme.me` should be updated with how your game works on a technical level, as well as your sources.
+After your project is complete, your `readme.me` should be updated with how your game works on a technical level, as well as the sources you used while working on your project.
 
 Requirements for your `readme.md`:
 
