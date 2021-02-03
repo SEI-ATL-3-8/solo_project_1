@@ -1,4 +1,4 @@
-# Project 1
+# Project 1 - SEI 125
 
 ## Overview
 
@@ -29,6 +29,51 @@ Your app must:
 * A **git repository hosted on Github**, with a link to your hosted game, and frequent commits dating back to the very beginning of the project
 * **A `readme.md` file** with explanations of the technologies used, the approach taken, installation instructions, unsolved problems, etc.
 
+## Evaluation Rubric
+
+When evaluating your projects and giving code reviews, we will use the following rubric for evaluation:
+
+* is your game **playable**? -- *does your game meet the **mvp** requirements*
+* is your game **winnable**? -- *does your game have win condition logic that works*
+* is the result of the **win condition/score displayed** to the user?
+* does your game have a **reset button**? -- *the reset button should return your game to the inital state*
+* does your game have **clear instructions on how to play**? -- *a user who has never played your game before needs to be able to understand how to play*
+* is your game **well documented** in your `readme.md`?
+* did you use a **good git workflow** by commiting your work frequently and at appropriate times during the project?
+* is your **js well organized**?
+* did you use a good coding style with **DRY principles**?
+* is there effort put into **styling your game**?
+* **Total**: Your instructors will give you a total score on your project between:
+
+| Score | Expectations |
+| :--- | :--- |
+| **0** | _Incomplete._ |
+| **1** | _Does not meet expectations._ |
+| **2** | _Meets expectations, good job!_ |
+| **3** | _Exceeds expectations, you wonderful creature, you!_ |
+
+This total score will serve as a helpful overall gauge of whether you met the project goals, but **the more important scores are the individual ones along with the code review**, which can help you identify where to focus your efforts for the next project!
+
+## What Your`Readme.md` Needs To include
+
+Your `readme.md` will be the resource document for your project. It needs to give a **clear overview** of the project from start to finish. 
+
+Before beginning your project, the `readme.md` should describe your vision of the project and your plans on how to achieve your vision. 
+
+After your project is complete, your `readme.me` should be updated with how your game works on a technical level, as well as your sources.
+
+Requirements for your `readme.md`:
+
+* descritpive overview of the project
+* rules of the game and how to win/score
+* mvp checklist 
+* stretch goals -- *for after mvp is achieved*
+* user stories -- *descriptions of the game's features from a user's perspective*
+* wireframes of how your game will look
+* the technologies used to create your game
+* cool code snippets to illustrate how your game works
+* sources used
+
 ## Suggested Ways to Get Started
 
 * **Break the project down into different components** \(data, presentation, views, style, DOM manipulation\) and brainstorm each component individually. Use whiteboards!
@@ -46,21 +91,4 @@ Your app must:
 * Clone your project onto your computer.
 * Start making changes!
 
-## Project Feedback + Evaluation
-
-* **Project Workflow**: Did you commit early and often? Did you plan out your game and development approach first? Did you conquer funcitonality before spending time on styling?
-* **Technical Requirements**: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
-* **Creativity**: Did you add a personal spin or creative element into your project submission?
-* **Code Quality**: Did you follow code style guidance and best practices covered in class, such as spacing, modularity, and semantic naming? Did you comment your code as your instructors have in class?
-* **Deployment**: Did you deploy your application to a public url using GitHub Pages?
-* **Total**: Your instructors will give you a total score on your project between:
-
-| Score | Expectations |
-| :--- | :--- |
-| **0** | _Incomplete._ |
-| **1** | _Does not meet expectations._ |
-| **2** | _Meets expectations, good job!_ |
-| **3** | _Exceeds expectations, you wonderful creature, you!_ |
-
-This will serve as a helpful overall gauge of whether you met the project goals, but **the more important scores are the individual ones** above, which can help you identify where to focus your efforts for the next project!
 
