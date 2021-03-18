@@ -19,7 +19,7 @@ You must turn in a pitch that outlines what you'll build for your project 1.
     - Game rules: explain how the game is played, how the player scores, and how they player can reach the win and lose states.
     - Wireframes: explained below.
     - User stories: a series of statements in the form of "When I {do X}, {Y happens}." These statements should encompass the whole functionality of playing the game.
-    - MVP checklist: A list of all the functionalities that will constitute the bare minimum version of your game. Note that this list should be sized so that you can complete it by ~Thursday of P1 week, leaving Friday-Saturday-Sunday to tackle stretch goals.
+    - MVP checklist: A list of all the functionalities that will constitute the bare minimum version of your game. Note that this list should be sized so that you can complete it by ~Monday, leaving Tuesday to tackle stretch goals.
     - Stretch goals: A list of awesome bonus goals you will work on after completing your MVP.
 1. Wireframes:
   - Use a tool like https://awwapp.com/, https://www.mockflow.com/, or good ol zoom whiteboard to create wireframes for your project. Whatever you use, get a screen cap.
